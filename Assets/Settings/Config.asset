@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a108d963cd1026a429da639e7d8518c2, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  Width: 39
+  Height: 32
+  CameraSize: 19.8
+  CameraPosition: {x: 32.5, y: 15, z: -10}
+  BlueNumber: {fileID: 21300000, guid: c41f3809f74866c4d8eafac95dc74af3, type: 3}
+  RedNumber: {fileID: 21300000, guid: f749d6f5fe71dcf48beb9d9045cee173, type: 3}
+  IsBluePlayer: 1
+  PlayerTurnState: 1
+  IsCoach: 1
+  IsLock: 0
+  BrushLine: {fileID: 0}
+  BrushLastPos: {x: 27.773285, y: 11.321615}
+  BrushCollider: {fileID: 0}
+  SecondsPlayer1: 600
+  SecondsPlayer2: 600
+  Big: {x: 80, y: 80, z: 1}
+  Small: {x: 60, y: 60, z: 1}
+  Current: {fileID: 0}
+  DotSize: 1
+  CrossSize: 0
+  IsPointer: 0
+  BiggestRight: 0
+  BiggestDown: -1
+  StartIndex: 
+  CountIndex: -1
+  NumberIndex: 
+  Tool: 0
+  NumTool: 0
+  IsMaster: 1
